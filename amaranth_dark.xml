@@ -58,8 +58,8 @@
           </ThemeWidgetColors>
         </wcol_text>
         <wcol_option>
-          <ThemeWidgetColors outline="#494949"
-                             inner="#181818ff"
+          <ThemeWidgetColors outline="#5e5e5e"
+                             inner="#2a2a2aff"
                              inner_sel="#505050ff"
                              item="#ffffffff"
                              text="#b8b8b8"
